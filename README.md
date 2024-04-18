@@ -75,5 +75,5 @@ The API uses dependency injection to manage database connections. The `get_db` f
 
 
 ## Author
-## devmianharoon
+## DevMianHaroon
 
