@@ -3,7 +3,7 @@
 This is a simple RESTful API built with FastAPI for managing todo items.
 
 ## Prerequisites
-- Python 3.+
+- Python 3.9+
 - Poetry (Python package installer)
 
 ## Installation
